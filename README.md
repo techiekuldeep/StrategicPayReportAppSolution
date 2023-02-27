@@ -133,6 +133,8 @@ The insert scripts has been provided to add the sample data for each table.
 exec GetTop10CustomerOrders
 exec GetOverdueOrders
 ```
+![image](https://user-images.githubusercontent.com/36822070/221695388-f1ab5fea-9e39-4cd4-b55f-bcebf9bf999c.png)
+
 
 ## Report Generation
 The best way to generate this report depends on your specific needs and requirements. Here are a few options:
