@@ -6,7 +6,9 @@
 Microsoft SQL Server.
 
 ## Creating SQL Tables
-The Order table represents an order made by a customer. It includes the order ID, the customer who made the order, the date the order was made, the date the order was shipped, the required date for the order, the shipping cost, and the shipping details (name, address, city, state, and zip code). The Customer table includes details about the customers, such as their name, email, phone, address, and location. The two tables are related by the CustomerID column in the Order table, which references the primary key of the Customer table.
+The Order table represents an order made by a customer. It includes the order ID, the customer who made the order, the date the order was made, the date the order was shipped, the required date for the order, the shipping cost, and the shipping details (name, address, city, state, and zip code).
+The Customer table includes details about the customers, such as their name, email, phone, address, and location.
+The two tables are related by the CustomerID column in the Order table, which references the primary key of the Customer table.
 
 The Product and OrderItem tables are additional tables that can be used to provide more information and detail about the orders in the Order table.
 
