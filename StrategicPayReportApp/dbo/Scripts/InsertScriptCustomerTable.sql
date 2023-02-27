@@ -1,0 +1,22 @@
+INSERT INTO Customer (CustomerID, FirstName, LastName, Email, Phone, Address, City, State, ZipCode)
+VALUES
+    (1, 'John', 'Doe', 'john.doe@example.com', '555-555-1212', '123 Main St', 'Anytown', 'CA', '12345'),
+    (2, 'Jane', 'Smith', 'jane.smith@example.com', '555-555-1212', '456 Elm St', 'Othertown', 'CA', '23456'),
+    (3, 'Bob', 'Johnson', 'bob.johnson@example.com', '555-555-1212', '789 Oak St', 'Smallville', 'WA', '34567'),
+    (4, 'Alice', 'Williams', 'alice.williams@example.com', '555-555-1212', '321 Cedar St', 'Bigtown', 'NY', '45678'),
+    (5, 'David', 'Brown', 'david.brown@example.com', '555-555-1212', '654 Pine St', 'Hometown', 'CA', '56789'),
+    (6, 'Karen', 'Davis', 'karen.davis@example.com', '555-555-1212', '987 Maple St', 'Anytown', 'WA', '67890'),
+    (7, 'Michael', 'Garcia', 'michael.garcia@example.com', '555-555-1212', '246 Oak St', 'Othertown', 'NY', '12345'),
+    (8, 'Amy', 'Rodriguez', 'amy.rodriguez@example.com', '555-555-1212', '135 Elm St', 'Smallville', 'WA', '23456'),
+    (9, 'Robert', 'Martinez', 'robert.martinez@example.com', '555-555-1212', '864 Pine St', 'Bigtown', 'CA', '34567'),
+    (10, 'Jennifer', 'Hernandez', 'jennifer.hernandez@example.com', '555-555-1212', '753 Cedar St', 'Hometown', 'NY', '45678'),
+    (11, 'Christopher', 'Lopez', 'christopher.lopez@example.com', '555-555-1212', '951 Maple St', 'Anytown', 'CA', '56789'),
+    (12, 'Michelle', 'Gonzalez', 'michelle.gonzalez@example.com', '555-555-1212', '357 Oak St', 'Othertown', 'WA', '67890'),
+    (13, 'Matthew', 'Perez', 'matthew.perez@example.com', '555-555-1212', '258 Elm St', 'Smallville', 'NY', '12345'),
+    (14, 'Amanda', 'Sanchez', 'amanda.sanchez@example.com', '555-555-1212', '159 Pine St', 'Bigtown', 'WA', '23456'),
+    (15, 'Jason', 'Rivera', 'jason.rivera@example.com', '555-555-1212', '753 Cedar St', 'Hometown', 'CA', '34567'),
+    (16, 'Melissa', 'Jones', 'melissa.jones@example.com', '555-555-1212', '951 Maple St', 'Anytown', 'NY', '45678'),
+    (17, 'Michael', 'Bolt', 'michael.bolt@example.com', '555-555-1212', '26 Oak St', 'Othertown', 'NY', '12345'),
+    (18, 'Amy', 'Singh', 'amy.singh@example.com', '555-555-1212', '15 Elm St', 'Smallville', 'WA', '23456'),
+    (19, 'Robert', 'Chawla', 'robert.chawla@example.com', '555-555-1212', '84 Pine St', 'Bigtown', 'CA', '34567'),
+    (20, 'Jennifer', 'Lopez', 'jennifer.lopez@example.com', '555-555-1212', '75 Cedar St', 'Hometown', 'NY', '45678')
