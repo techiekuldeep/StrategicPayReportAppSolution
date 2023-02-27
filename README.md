@@ -135,6 +135,7 @@ exec GetOverdueOrders
 ```
 ![image](https://user-images.githubusercontent.com/36822070/221695388-f1ab5fea-9e39-4cd4-b55f-bcebf9bf999c.png)
 
+![image](https://user-images.githubusercontent.com/36822070/221700252-3387157b-ca1b-4da2-960b-6f96c0aa108a.png)
 
 ## Report Generation
 The best way to generate this report depends on your specific needs and requirements. Here are a few options:
