@@ -147,8 +147,8 @@ The best way to generate this report depends on your specific needs and requirem
 Ultimately, the best approach depends on your specific needs and requirements, as well as your available resources and budget.
 
 ## Acknowledgements
-- This project is inspired by a mixture of resources from Dot Net Tricks.
-- Many thanks to [DotNetTricks](https://www.dotnettricks.com/)
-
+- This project is inspired by a mixture of resources from Dot Net Tricks & Essential SQL.
+- Many thanks to [DotNetTricks](https://www.dotnettricks.com/) [EssnetialSQL](https://www.essentialsql.com/)
+- 
 ## Contact
 Created by @kuldeepSingh - feel free to contact me!
