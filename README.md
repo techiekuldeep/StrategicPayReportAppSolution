@@ -6,6 +6,15 @@
 Microsoft SQL Server.
 
 ## Creating SQL Tables
+The Order table represents an order made by a customer. It includes the order ID, the customer who made the order, the date the order was made, the date the order was shipped, the required date for the order, the shipping cost, and the shipping details (name, address, city, state, and zip code). The Customer table includes details about the customers, such as their name, email, phone, address, and location. The two tables are related by the CustomerID column in the Order table, which references the primary key of the Customer table.
+
+The Product and OrderItem tables are additional tables that can be used to provide more information and detail about the orders in the Order table.
+
+The OrderItem table represents the individual items that are part of an order. It includes the order ID (foreign key referencing the Order table), the product ID (foreign key referencing the Product table), the quantity of the product ordered, and the unit price of the product. By using this table, we can calculate the total cost of each order by multiplying the quantity and unit price for each item.
+
+The Product table includes details about the products that are sold, such as the product name and the unit price. The ProductID column is used as a foreign key in the OrderItem table to associate each order item with the corresponding product.
+
+By using these additional tables, we can generate more detailed reports about the orders and the products that are sold. For example, we can generate a report that shows the top 10 products that are ordered, or the top 10 customers who have ordered a specific product.
 - Open SQL Server Management Studio.
 - Connect to your SQL Server database.
 - Create the Customer table by running the following script:
