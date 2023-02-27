@@ -71,8 +71,8 @@
     <Build Include="dbo\Stored Procedures\GetTop10CustomerOrders.sql" />
     <Build Include="dbo\Stored Procedures\GetOverdueOrders.sql" />
     <Build Include="dbo\Scripts\InsertScriptCustomerTable.sql" />
+    <Build Include="dbo\Scripts\InsertScriptProductTable.sql" />
     <Build Include="dbo\Scripts\InsertScriptOrderItemTable.sql" />
     <Build Include="dbo\Scripts\InsertScriptOrdersTable.sql" />
-    <Build Include="dbo\Scripts\InsertScriptProductTable.sql" />
   </ItemGroup>
 </Project>
