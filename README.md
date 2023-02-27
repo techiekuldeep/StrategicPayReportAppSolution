@@ -146,13 +146,9 @@ The best way to generate this report depends on your specific needs and requirem
 
 Ultimately, the best approach depends on your specific needs and requirements, as well as your available resources and budget.
 
-## Contributing
+## Acknowledgements
+- This project is inspired by a mixture of resources from Dot Net Tricks.
+- Many thanks to [DotNetTricks](https://www.dotnettricks.com/)
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+## Contact
+Created by @kuldeepSingh - feel free to contact me!
