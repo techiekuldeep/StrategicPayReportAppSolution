@@ -1,7 +1,5 @@
 # StrategicPayReportAppSolution
- A databse project to create report for user requirements.
-# Strategic Pay Report Generation
-This is a sample implementation of creating SQL tables and stored procedures for generating a report of the top 10 customer orders based on order amount and all overdue orders.
+ A databse project to create report for user requirements.This is a sample implementation of creating SQL tables and stored procedures for generating a report of the top 10 customer orders based on order amount and all overdue orders.
 
 ## Prerequisites
 
